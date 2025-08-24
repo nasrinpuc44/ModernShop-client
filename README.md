@@ -41,34 +41,42 @@ npm install
 
 # Run the development server
 npm run dev
-## 🗂️ Route Summary  
 
-- `/` → Home page (featured products)  
-- `/products` → Displays all available products  
-- `/login` → User authentication page  
-- `/dashboard` → User dashboard for account & product management  
-- `/dashboard/add-product` → Add product form  
-- `sign out` → Logs the user out of the app  
+🗂️ Route Summary
 
----
+/ → Home page (featured products)
 
-## ✨ Features  
+/products → Displays all available products
 
-### 🔑 User Authentication  
-- Secure login/signup system with email & password  
+/login → User authentication page
 
-### 🛒 Product Management (CRUD)  
-- Add, Edit, View, Delete products easily  
+/dashboard → User dashboard for account & product management
 
-### 🎨 Clean Landing Page  
-- Modern design with featured products  
+/dashboard/add-product → Add product form
 
-### 📦 Dashboard  
-- Manage products and user actions in one place  
+sign out → Logs the user out of the app
 
-### 🌗 Modern Shopping Flow  
-- Built with **Next.js + Tailwind CSS** for smooth performance  
+✨ Features
+🔑 User Authentication
 
-### 🔍 Route-Based Navigation  
-- Simple and user-friendly navigation  
+Secure login/signup system with email & password
 
+🛒 Product Management (CRUD)
+
+Add, Edit, View, Delete products easily
+
+🎨 Clean Landing Page
+
+Modern design with featured products
+
+📦 Dashboard
+
+Manage products and user actions in one place
+
+🌗 Modern Shopping Flow
+
+Built with Next.js + Tailwind CSS for smooth performance
+
+🔍 Route-Based Navigation
+
+Simple and user-friendly navigation
