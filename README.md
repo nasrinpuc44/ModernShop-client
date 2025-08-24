@@ -63,7 +63,7 @@ Secure login/signup system with email & password
 
 🛒 Product Management (CRUD)
 
-Add, Edit, View, Delete products easily
+Add, Edit, View products easily
 
 🎨 Clean Landing Page
 
